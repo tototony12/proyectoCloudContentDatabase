@@ -1,0 +1,23 @@
+{
+  "name": "proyectocloudcontentdatabase",
+  "version": "1.0.0",
+  "description": "Base de datos de contenido para plataforma de aprendizaje en linea.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tototony12/proyectoCloudContentDatabase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tototony12/proyectoCloudContentDatabase/issues"
+  },
+  "homepage": "https://github.com/tototony12/proyectoCloudContentDatabase#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "*"
+  }
+}
