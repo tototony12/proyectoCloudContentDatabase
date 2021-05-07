@@ -4,7 +4,8 @@
   "description": "Base de datos de contenido para plataforma de aprendizaje en linea.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,6 @@
   },
   "homepage": "https://github.com/tototony12/proyectoCloudContentDatabase#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "fs": "*"
+    "express": "^4.17.1"
   }
 }
